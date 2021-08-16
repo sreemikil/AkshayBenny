@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Any Projects**
+<!--- 👯 I’m looking to collaborate on **Any Projects**
 
-<!--- 👨‍💻 All of my projects are available at ****-->
+- 👨‍💻 All of my projects are available at ****-->
 
 - 📫 How to reach me **akshaybennyajh@gmail.com**
 
