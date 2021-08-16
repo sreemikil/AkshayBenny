@@ -30,6 +30,11 @@
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
+    <a href="https://www.figma.com"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+    <a href="https://www.adobe.com/in/products/photoshop.html?sdid=SGDJMMG3&mv=search&ef_id=CjwKCAjw9uKIBhA8EiwAYPUS3JglDWdEGGA4IWvgHQ0y_bahBKP-HTaBZ97vkCC8_BZjrW81UNjjFxoCyIAQAvD_BwE:G:s&s_kwcid=AL!3085!3!444587836691!e!!g!!adobe%20photoshop!221441588!17534749028&gclid=CjwKCAjw9uKIBhA8EiwAYPUS3JglDWdEGGA4IWvgHQ0y_bahBKP-HTaBZ97vkCC8_BZjrW81UNjjFxoCyIAQAvD_BwE"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/></a>
+    <a href="https://www.adobe.com/in/products/xd.html?sdid=12B9F15S&mv=Search&ef_id=CjwKCAjw9uKIBhA8EiwAYPUS3PiOPLgHVN-1NJA3WlQdUtlXZ8aklDp2gpCwp0-z3Mcx1LNs-QBkFRoC7nsQAvD_BwE:G:s&s_kwcid=AL!3085!3!526748867465!e!!g!!adobe%20xd!1641846448!65452677551"><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/></a>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.icons8.com/fluency/48/000000/matlab.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
